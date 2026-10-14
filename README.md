@@ -374,6 +374,6 @@ No. The system prompt contains strict boundary rules directing the assistant to 
 
 ## 👥 Authors & Acknowledgments
 
-- **Developer:** Kumara Guru ([kumaraguruj@aditi.com](mailto:kumaraguruj@aditi.com))
+- **Developer:** Kumara Guru ([guru4ui@gmail.com](mailto:[EMAIL_ADDRESS]))
 - **Program:** Buildathan B12 — Generative AI Track
 - **Source Documents:** Official Policy Notes and Guidelines from the Department of Agriculture and Farmers Welfare, Government of Tamil Nadu.
